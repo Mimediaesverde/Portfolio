@@ -22,3 +22,34 @@ body {
   background-position: center;
   padding-top: 450px;
 }
+
+.presentation {
+  background-color: #f0f0f0;
+  padding: 0;
+}
+
+.presentation-text {
+  color: #000;
+  padding: 20px;
+}
+
+.presentation-text h2 {
+  font-size: 28px;
+  margin-top: 0;
+}
+
+.presentation-text p {
+  font-size: 16px;
+  margin-bottom: 0;
+}
+
+.presentation .col-md-6 {
+  padding: 0;
+}
+
+.presentation img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0;
+}
