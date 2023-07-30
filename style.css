@@ -11,9 +11,16 @@ body {
   padding: 200px 0;
 }
 
+.jumbotron-title {
+  font-size: 48px;
+  margin-top: -60px;
+  font-weight: bold;
+  font-style: italic;
+}
+
 .lead {
   font-size: 20px;
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
 .contact {
